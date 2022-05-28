@@ -1,0 +1,32 @@
+.st {
+  font-size: 30px;
+  color: blue;
+  background-color: burlywood;
+  font-style: italic;
+}
+.nd {
+  color: crimson;
+}
+.rana {
+  color: red;
+}
+.rana:hover {
+  color: blue;
+}
+.malik {
+  color: rgb(92, 92, 50);
+  font-style: oblique;
+}
+.malik:hover,
+.rana:hover {
+  background-color: antiquewhite;
+}
+.shk:hover,
+.malik:hover,
+.rana:hover {
+  font-style: italic;
+}
+
+#rana {
+  color: aquamarine;
+}
